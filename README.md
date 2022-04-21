@@ -1,4 +1,4 @@
-# PROJECT_NAME
+# python_project_template
 
 File presenti in questo TEMPLATE:
 
