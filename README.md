@@ -4,7 +4,7 @@ File presenti in questo TEMPLATE:
 
 * **LICENSE**<br>
   è il file che contiene la licenza con cui rilascerai il tuo codice. Mi sono
-  permesso di metterne una io... se non ti va bene, scegline un'altra qui:
+  permesso di metterne una io... se non ti va bene, scegline un'altra qui: <https://choosealicense.com/>
   
 * **MANIFEST.in**<br>
   Questo file serve per creare un pacchetto da eventualmente caricare su pypi.
