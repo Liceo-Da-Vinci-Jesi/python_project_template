@@ -41,7 +41,7 @@ File presenti in questo TEMPLATE:
   
 * **tests** (cartella)<br>
   Questa cartella conterrà i tests del tuo modulo. Quello dei test è un argomento importante
-  e un pochino complicato... approfondiamo se serve. Per adesso puoi cancellare questa cartella
+  e un pochino complicato... approfondiamo se serve. Per adesso puoi ignorare questa cartella
   
 * **python_project_template** (cartella)<br>
   La cartella con il nome del modulo. Va rinominata con lo stesso nome del tuo progetto. Se
@@ -74,15 +74,14 @@ Alla fine quindi, la struttura della cartella del progetto sarà tipo questa:
 
 ## File aggiuntivi
 
-* il file **.gitignore** è una caratteristica di git. Permette di indicare alcuni tipi di file o cartelle, tipicamente prodotti durante l'esecuzione del codice, che vanno ignorati
-  da git, in modo da non caricare nel repository file inutili e/o autogenerati.
+* il file **.gitignore** è una caratteristica di git. Permette di indicare alcuni tipi di file o cartelle, tipicamente prodotti durante l'esecuzione del codice, 
+  che vanno ignorati da git, in modo da non caricare nel repository file inutili e/o autogenerati.
   Quello che ho inserito io contiene tutte le cose da ignorare tipiche dei progetti Python. In teoria non dovete toccarlo: va lasciato così come è.
 
-* il file **requirements.txt** serve per preparare un ambiente di test per il programma che state sviluppando. *Adesso non c'è*. Dobbiamo parlare di ambienti virtuali e altro prima
-  di poterlo inserire. Quando lo avremo fatto... sarà banale inserirlo anche da soli se ne avrete bisogno!
+* il file **requirements.txt** serve per preparare un ambiente di test per il programma che state sviluppando. *Adesso non c'è*. 
+  Dobbiamo parlare di ambienti virtuali e altro prima di poterlo inserire. 
+  Quando lo avremo fatto... sarà banale inserirlo anche da soli se ne avrete bisogno!
   
 
 Buon lavoro!
-
-
 
